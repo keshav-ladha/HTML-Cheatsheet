@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0px;
+}
+body{
+    background-color: #dadada;
+}
+
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #272822;
+    color:white;
+    height:60px;
+
+}
+
+ol li {
+    list-style-position: inside;
+}
+
+.content{
+    font-family: 'Sofia','Potta ';
+    font-size: 30px;
+}
+.container{
+    font-family: 'Yusei Magic';
+    width: 60vw;
+    margin:auto;
+    padding:32px 0px;
+}
+.logo{
+    padding: 0 13px 0;
+}
+.logo img{
+    width: 85px;;
+    height: 49.5px;
+    filter: invert(100%);
+}
+
+.toolbar-item button{
+    cursor: pointer !important;
+    padding: 5px 14px !important;
+    color: white !important;
+    margin-top: auto !important;
+    border: 1px solid white !important;
+    border-radius: 6px !important;
+}
+h1{
+    font-size: 32pt;
+}
