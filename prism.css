@@ -171,8 +171,8 @@ div.code-toolbar > .toolbar a,
 div.code-toolbar > .toolbar button{
 	cursor: pointer ;
     padding: 5px 14px ;
-    color: white ;
-    margin-top: auto ;
+	color: white ;
+	margin-top:auto;
     border: 1px solid white !important;
     border-radius: 6px ;
 }
